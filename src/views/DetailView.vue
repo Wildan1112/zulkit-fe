@@ -84,7 +84,6 @@ onMounted(() => {
                   </div>
                 </div>
               </div>
-
               <div>
                 <h1 class="mt-5 mb-3 font-semibold text-md">Great Features</h1>
                 <ul class="mb-6 text-gray-500" v-if="item">
