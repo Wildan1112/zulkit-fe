@@ -45,7 +45,7 @@ onMounted(() => {
           </h1>
           <p class="text-gray-500">{{ item.subtitle }}</p>
           <Gallery
-            :defaultImage="item.thumbnails"
+            :defaultImage="item.thumbnail"
             :galleries="item.galleries" />
           <section class="" id="orders">
             <h1 class="mt-8 mb-3 text-lg font-semibold">About</h1>
